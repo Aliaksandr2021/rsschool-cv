@@ -33,3 +33,17 @@ function checkName(name) {
 }
 
 ```
+## Work experience
+1. **Minsktrans (public transport company)**
+  
+   Technical support and setup of telecommunication systems, Monitoring and QA of LED & LCD public transport timetables panel.
+2. **Minsk bus station**
+   
+   Technical support of telecommunication systems.
+
+## Education
+
+- Minsk State Higher Radioengineering College
+- RS School JS/FE Stage 0 course in progress
+
+## English Level
