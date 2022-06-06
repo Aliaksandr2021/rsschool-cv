@@ -47,3 +47,5 @@ function checkName(name) {
 - RS School JS/FE Stage 0 course in progress
 
 ## English Level
+
+-B2
