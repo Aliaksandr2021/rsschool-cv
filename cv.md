@@ -15,7 +15,7 @@ I started my career as engineer with public transport company and worked for the
 - Software development methodology
 - Technical support and  setup of telecommunication systems
 
-## Code Sample
+## Code Example
 
 ```
 const myName = 'Alex';
